@@ -1,1 +1,1 @@
-# spam
+worker: node bot.js
